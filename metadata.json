@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Dash: Cosmo Kids Arcade & Astra Thrust",
+  "description": "High-octane friendly cosmic arcade rocket runner featuring 3D stylized space flight, star coin collection, rocket hangar customization, telemetry HUD, and tactical flight modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
